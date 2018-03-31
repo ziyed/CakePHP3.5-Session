@@ -2,8 +2,14 @@ CakePHP3.5-Session
 
 
 Presented by:
-Md. Ziyed Uddin,
-Sr. Software Engineer,
+
+Md. Ziyed Uddin
+
+Sr. Software Engineer
+
 W3Engineers LTD
 
-Email: ziyed@w3engineers.com
+Personal Email: ziyed.cse@gmail.com
+
+Office Email: ziyed@w3engineers.com
+
